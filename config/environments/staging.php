@@ -13,6 +13,10 @@ Config::define('DB_USER', env('DATABASE_WORDPRESS_USER'));
 Config::define('DB_PASSWORD', env('DATABASE_WORDPRESS_PASSWORD'));
 Config::define('DB_HOST', env('DATABASE_WORDPRESS_HOST'));
 
+Config::define('WP_HOME', env('WP_HOME'));
+Config::define('WP_BASEURL', env('WP_HOME'));
+Config::define('WP_SITEURL', env('WP_HOME') . '/wp');
+
 /**
  * You should try to keep staging as close to production as possible. However,
  * should you need to, you can always override production configuration values
