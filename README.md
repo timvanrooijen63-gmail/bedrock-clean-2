@@ -7,7 +7,7 @@ we can build and deploy on [Forest](https://forest.host) and locally!
 **Contents**
 1. [Composer & Bedrock](#composer--bedrock)
 2. [How to use this setup?](#how-to-use-this-setup)
-3. [Deploy on Forest.host](#deploy-on-forest-host)
+3. [Deploy on Forest.host](#deploying-on-foresthost)
 
 ## Composer & Bedrock
 This package uses [Composer](https://getcomposer.org/) to install WordPress,
