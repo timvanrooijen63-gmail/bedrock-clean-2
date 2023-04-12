@@ -5,7 +5,7 @@ The goal of this repository is to provide a WordPress setup that
 we can build and deploy on [Forest](https://forest.host) and locally!
 
 **Contents**
-1. [Composer & Bedrock](#Composer%20&%20Bedrock)
+1. [Composer & Bedrock](#composer--bedrock)
 2. [How to use this setup?](#how-to-use-this-setup)
 3. [Deploy on Forest.hsot](#deploy-on-forest-host)
 
