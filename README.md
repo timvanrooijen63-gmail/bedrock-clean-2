@@ -90,6 +90,11 @@ this setup already
 8) Navigate to `variables` and add `WP_ENV` as a variable with the value of the
 configuration file you want to use. In most cases this will be `production`.
 
+This repository already includes configuration for a `production` and `staging`
+environment on Forest (see: `/config/environments/production.php and
+staging.php`). Here you'll see that the database credentials are provided as
+environment variables by Forest.
+
 Forest has now linked this environment to this repository's given branch.
 All we need to do now is deploy!
 A deploy is triggered by a new commit the repository. Make some nice changes and
